@@ -2,7 +2,7 @@ import random
 import numpy as np
 import math
 
-def FitnessFn(x1, x2):  ## f(x1,x2) = x1**2 - x1*x2 + x2**2 + 2*x1 +4*x2 + 3
+def FitnessFn(x1, x2):
     # return (x1**2-x2**2)*np.sin(x1+x2)/(x1**2+x2**2)
     return x1**2 + x2**2
     # return x1**2 - x1*x2 + x2**2 + 2*x1 + 4*x2 + 3

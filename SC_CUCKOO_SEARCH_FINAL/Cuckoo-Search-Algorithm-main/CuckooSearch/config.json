@@ -1,5 +1,4 @@
 {
-    "Comment":"This JSON File is for the configuration of the model, it defines the required parameters like the limts,no of generations,nests and the Probability of the replacement of the existing eggs.",
     "P_a": 0.25,
     "beta": 1.5, 
     "alpha": 1, 

@@ -1,3 +1,5 @@
+# Tested on all Benchmark functions, the current fitness function itself is a benchmark function.
+
 from Functions import FitnessFn, LevyFlight, Step, Abandon_with_Pa
 import numpy as np
 import random, copy, json

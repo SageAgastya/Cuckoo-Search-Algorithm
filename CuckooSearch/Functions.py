@@ -1,3 +1,5 @@
+# Tested on all Benchmark functions, the current fitness function itself is a benchmark function.
+
 import random
 import numpy as np
 import math
